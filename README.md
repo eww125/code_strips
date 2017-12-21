@@ -5,3 +5,7 @@ You'll use your knowledge of Express, SQLite, and the `sqlite3` node module in o
 You can start your server from the terminal window with `node app.js` and kill it with the `Ctrl + C` key command.
 
 As you progress through the steps, you can test your work by interacting with the front-end web browser component or by running a test suite. To run the test suite in the terminal, enter the `mocha` command. This will run a test suite for all steps of the project. You won't be able to run the server and test script in the same terminal window at the same time, so either kill your server before running the test script or open a second terminal window to run `mocha`.
+
+Setting up the project
+
+1. In your terminal window, use `npm` to install `express`.
